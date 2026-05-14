@@ -2,6 +2,10 @@
 
 A basic e-commerce web app inspired by Myntra, built using HTML, CSS, and JavaScript.
 
+## 🚀 Live Demo
+
+https://vikash-kherwa.github.io/myntra-functional-clone/
+
 ## 🚀 Features
 
 - Product listing (dynamic rendering)
